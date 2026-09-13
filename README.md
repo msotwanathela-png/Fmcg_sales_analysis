@@ -45,7 +45,7 @@ The dashboard provides an interactive view of:
 
 ### Dashboard Preview
 
-`FMCG_Dashboard.pdf`
+`Fmcg_Dashboard.pdf`
 
 ## SQL Analysis
 
@@ -67,8 +67,8 @@ The SQL analysis is available in:
 ## Project Files
 
 * `fmcg_sales_analysis.sql` — MySQL analysis queries
-* `FMCG_Sales_Marketing_Profitability_Analysis.pbix` — Power BI dashboard
-* `FMCG_Dashboard.png` — dashboard preview
+* `Fmcg__Analysis.pbix` — Power BI dashboard
+* `Fmcg_Dashboard.png` — dashboard preview
 
 ## Dataset
 
