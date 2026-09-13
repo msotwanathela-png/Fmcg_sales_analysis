@@ -45,7 +45,7 @@ The dashboard provides an interactive view of:
 
 ### Dashboard Preview
 
-`FMCG_Dashboard.png`
+`FMCG_Dashboard.pdf`
 
 ## SQL Analysis
 
