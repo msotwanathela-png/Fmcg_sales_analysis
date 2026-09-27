@@ -66,7 +66,7 @@ The SQL analysis is available in:
 
 ## Project Files
 
-* `fmcg_sales_analysis.sql` — MySQL analysis queries
+* `Fmcg_Sales_Analysis.sql` — MySQL analysis queries
 * `Fmcg__Analysis.pbix` — Power BI dashboard
 * `Fmcg_Dashboard.png` — dashboard preview
 
